@@ -1,7 +1,7 @@
 
 
-
-this (chainf stuff) is a new text file that will need to get pulled
-
-
-making modifictionsa
+1. git clone (dont forget to add token if we want to add modifications) 
+2. git pull -> will get stuff from github and update local repo with it.
+2. git pull is the same as "git fetch" and git merge
+3. git fetch -> get stuff from github into working directory 
+4. git merge -> me
